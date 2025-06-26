@@ -1,0 +1,4 @@
+stepDefinition\FashionStepDefinition.class
+feature\Hooks.class
+runner\TestRunner.class
+stepDefinition\SearchBarDefinition.class
